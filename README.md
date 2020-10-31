@@ -6,4 +6,4 @@ The code crawl_search_snapshots_combined.py is to collect the DMA-level cross-se
 
 The code crawl_search_over_time_dma.py is to collect the DMA-level time-series Google Trends indices for the jobs search term for the period between December 31, 2006 and December 31, 2016.
 
-The code Recale-combined.ipynb is to rescale the cross-sectional jobs indices using the Honolulu time-series jobs indices.
+The code Recale-combined.ipynb is to rescale the cross-sectional jobs indices using the Honolulu time-series jobs indices. This code is for the second and third steps in the manuscript.
