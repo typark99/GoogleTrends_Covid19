@@ -1,6 +1,6 @@
 # GoogleTrends_Covid19
 
-This project is from the manuscript "Building Longitudinal Google Trends to Measure Dynamic Local-Level Issue Attention" (Taeyong Park, Haewoon Kwak, and Jisun An). The manuscript is available at http://www.taeyongpark.com/uploads/1/1/6/6/116640555/longitudinal_searches_ver3.pdf This manuscript is under review, and please do not cite. 
+This project is from the manuscript "Building Longitudinal Google Trends to Measure Dynamic Local-Level Issue Attention" by Taeyong Park, Haewoon Kwak, and Jisun An. The manuscript is available at http://www.taeyongpark.com/uploads/1/1/6/6/116640555/longitudinalgoogletrends.pdf 
 
 The code crawl_search_snapshots_combined.py is to collect the DMA-level cross-sectional Google Trends indices for the CDC-CNN-Fox News comparison-search term for the period between February 1, 2020 and May 9, 2020. DMA refers to the Designated Market Area, a geographic area where people receive the same television station offerings in the United States.
 
