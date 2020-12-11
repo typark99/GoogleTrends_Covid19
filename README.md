@@ -6,4 +6,4 @@ The code crawl_search_snapshots_combined.py is to collect DMA-level cross-sectio
 
 The code crawl_search_over_time_dma.py is to collect DMA-level time-series Google Trends indices for the CDC-CNN-Fox News comparison-search term for the period between February 1, 2020 and May 9, 2020.
 
-The code Recale-combined.ipynb is to rescale the cross-sectional CDC-CNN-Fox News comparison-search indices using the Atlanta time-series jobs indices. This code is for the second and third steps in the manuscript.
+The code Recale-combined.ipynb is to rescale the cross-sectional CDC-CNN-Fox News comparison-search indices using the Atlanta time-series. This code is for the second and third steps in the manuscript.
